@@ -1,6 +1,6 @@
 # Rust Search
 
-Rust Search is a Rust-based application designed for efficient file searching within directories. It provides a robust solution for file management and search operations by leveraging parallel processing and real-time progress tracking.
+Rust Search is a Rust-based application designed for efficient file searching within directories.
 
 ## Features
 
